@@ -8,7 +8,7 @@ from statistics import mean
 # ============================================================
 
 # Cambiá esta ruta por la carpeta donde están tus archivos .jsonl
-INPUT_FOLDER = Path(r"C:\Users\lumil\OneDrive\Documentos\pebble_analisis\Archivos_output_batch")
+INPUT_FOLDER = Path(r"Archivos_output_batch")
 
 # Archivos que va a generar
 DETAIL_CSV = Path("analisis_requests.csv")
