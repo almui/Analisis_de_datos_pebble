@@ -1,0 +1,928 @@
+======================================================================
+RESUMEN DE TOKENS - ARCHIVOS JSONL
+======================================================================
+
+Requests analizadas: 40
+Requests con usage:   40
+Requests sin usage:   0
+
+----------------------------------------------------------------------
+OUTPUT
+----------------------------------------------------------------------
+Tokens output totales:     4,004
+Promedio por request:      100.10
+Mínimo por request:        26
+Máximo por request:        331
+
+----------------------------------------------------------------------
+INPUT
+----------------------------------------------------------------------
+Tokens input totales:      485,192
+Promedio por request:      12,129.80
+Mínimo por request:        11,198
+Máximo por request:        12,996
+
+----------------------------------------------------------------------
+TOTAL
+----------------------------------------------------------------------
+Tokens totales:             489,196
+Promedio por request:       12,229.90
+
+----------------------------------------------------------------------
+CACHE
+----------------------------------------------------------------------
+Cached tokens totales:      409,591
+Cache write tokens totales: 75,481
+
+----------------------------------------------------------------------
+REASONING
+----------------------------------------------------------------------
+Reasoning tokens totales:   2,112
+
+======================================================================
+DETALLE POR ARCHIVO
+======================================================================
+
+Archivo: batch_6aa4eaa54d848190b322f5077c5839cc_output.jsonl
+  Requests:              1
+  Input tokens:          11,296
+  Output tokens:         31
+  Total tokens:          11,327
+  Cached tokens:         0
+  Cache write tokens:    11,293
+
+Archivo: batch_6aa4eb5ae1bc8190a42a151fe4aaab66_output.jsonl
+  Requests:              1
+  Input tokens:          11,198
+  Output tokens:         56
+  Total tokens:          11,254
+  Cached tokens:         0
+  Cache write tokens:    11,195
+
+Archivo: batch_6aa4ebccf2888190be69dc4c16358c0f_output.jsonl
+  Requests:              1
+  Input tokens:          11,258
+  Output tokens:         72
+  Total tokens:          11,330
+  Cached tokens:         0
+  Cache write tokens:    11,255
+
+Archivo: batch_6aa4ec44225c8190946ac91acb35d41a_output.jsonl
+  Requests:              1
+  Input tokens:          11,301
+  Output tokens:         90
+  Total tokens:          11,391
+  Cached tokens:         0
+  Cache write tokens:    11,298
+
+Archivo: batch_6aa4ecc0ed2c8190b28fd88ebadea97b_output.jsonl
+  Requests:              1
+  Input tokens:          11,357
+  Output tokens:         89
+  Total tokens:          11,446
+  Cached tokens:         11,255
+  Cache write tokens:    99
+
+Archivo: batch_6aa4ed32be2481908c65c889e5f20a89_output.jsonl
+  Requests:              1
+  Input tokens:          11,405
+  Output tokens:         100
+  Total tokens:          11,505
+  Cached tokens:         11,195
+  Cache write tokens:    207
+
+Archivo: batch_6aa4edacad6081908e6af4a9c673278a_output.jsonl
+  Requests:              1
+  Input tokens:          11,459
+  Output tokens:         116
+  Total tokens:          11,575
+  Cached tokens:         11,354
+  Cache write tokens:    102
+
+Archivo: batch_6aa4ee237fdc81909bfd53382b966711_output.jsonl
+  Requests:              1
+  Input tokens:          11,508
+  Output tokens:         109
+  Total tokens:          11,617
+  Cached tokens:         11,298
+  Cache write tokens:    207
+
+Archivo: batch_6aa4ee9cd89881908988f15de75d5776_output.jsonl
+  Requests:              1
+  Input tokens:          11,560
+  Output tokens:         144
+  Total tokens:          11,704
+  Cached tokens:         0
+  Cache write tokens:    11,557
+
+Archivo: batch_6aa4ef13f67c8190a9977c8281d3f30a_output.jsonl
+  Requests:              1
+  Input tokens:          11,607
+  Output tokens:         107
+  Total tokens:          11,714
+  Cached tokens:         11,402
+  Cache write tokens:    202
+
+Archivo: batch_6aa4ef8e7720819088ab2e0c17362439_output.jsonl
+  Requests:              1
+  Input tokens:          11,668
+  Output tokens:         128
+  Total tokens:          11,796
+  Cached tokens:         11,456
+  Cache write tokens:    209
+
+Archivo: batch_6aa4f002e9c08190af4c98df4e34c75d_output.jsonl
+  Requests:              1
+  Input tokens:          11,726
+  Output tokens:         142
+  Total tokens:          11,868
+  Cached tokens:         11,604
+  Cache write tokens:    119
+
+Archivo: batch_6aa4f07b5b448190b291ddf2e657071a_output.jsonl
+  Requests:              1
+  Input tokens:          11,791
+  Output tokens:         170
+  Total tokens:          11,961
+  Cached tokens:         11,557
+  Cache write tokens:    231
+
+Archivo: batch_6aa4f0f868ac8190ac5b33854407044b_output.jsonl
+  Requests:              1
+  Input tokens:          11,858
+  Output tokens:         155
+  Total tokens:          12,013
+  Cached tokens:         11,505
+  Cache write tokens:    350
+
+Archivo: batch_6aa4f173ac448190b573a5b6ea053efc_output.jsonl
+  Requests:              1
+  Input tokens:          11,911
+  Output tokens:         85
+  Total tokens:          11,996
+  Cached tokens:         11,665
+  Cache write tokens:    243
+
+Archivo: batch_6aa4f2d423388190b7da3922ebb6a622_output.jsonl
+  Requests:              1
+  Input tokens:          11,947
+  Output tokens:         83
+  Total tokens:          12,030
+  Cached tokens:         11,723
+  Cache write tokens:    221
+
+Archivo: batch_6aa4f34cdba481909ad26a370fcb8038_output.jsonl
+  Requests:              1
+  Input tokens:          11,997
+  Output tokens:         77
+  Total tokens:          12,074
+  Cached tokens:         11,908
+  Cache write tokens:    86
+
+Archivo: batch_6aa4f3c39c4081909ad9746e95b4d8fb_output.jsonl
+  Requests:              1
+  Input tokens:          12,033
+  Output tokens:         135
+  Total tokens:          12,168
+  Cached tokens:         11,944
+  Cache write tokens:    86
+
+Archivo: batch_6aa4f43b07c48190818b8bc05de1e232_output.jsonl
+  Requests:              1
+  Input tokens:          12,084
+  Output tokens:         96
+  Total tokens:          12,180
+  Cached tokens:         11,788
+  Cache write tokens:    293
+
+Archivo: batch_6aa4f52bdf8481909c1c8dbf83a21b47_output.jsonl
+  Requests:              1
+  Input tokens:          12,126
+  Output tokens:         147
+  Total tokens:          12,273
+  Cached tokens:         11,855
+  Cache write tokens:    268
+
+Archivo: batch_6aa4f5a1fdbc81908d5668a81ad86123_output.jsonl
+  Requests:              1
+  Input tokens:          12,199
+  Output tokens:         134
+  Total tokens:          12,333
+  Cached tokens:         11,994
+  Cache write tokens:    202
+
+Archivo: batch_6aa4f61b0fc88190a0f15a35a8500475_output.jsonl
+  Requests:              1
+  Input tokens:          12,262
+  Output tokens:         58
+  Total tokens:          12,320
+  Cached tokens:         12,123
+  Cache write tokens:    136
+
+Archivo: batch_6aa4f69217788190be765499a6c22f02_output.jsonl
+  Requests:              1
+  Input tokens:          12,324
+  Output tokens:         331
+  Total tokens:          12,655
+  Cached tokens:         12,196
+  Cache write tokens:    125
+
+Archivo: batch_6aa4f70ac4dc8190b7f03f478d7c8b42_output.jsonl
+  Requests:              1
+  Input tokens:          12,379
+  Output tokens:         111
+  Total tokens:          12,490
+  Cached tokens:         12,030
+  Cache write tokens:    346
+
+Archivo: batch_6aa4f78256488190b23e64f22f6f60e3_output.jsonl
+  Requests:              1
+  Input tokens:          12,415
+  Output tokens:         38
+  Total tokens:          12,453
+  Cached tokens:         12,081
+  Cache write tokens:    331
+
+Archivo: batch_6aa4f7facdf48190b4a06ec305ed7185_output.jsonl
+  Requests:              1
+  Input tokens:          12,451
+  Output tokens:         28
+  Total tokens:          12,479
+  Cached tokens:         12,259
+  Cache write tokens:    189
+
+Archivo: batch_6aa4f87350348190ba5201ac92410b46_output.jsonl
+  Requests:              1
+  Input tokens:          12,485
+  Output tokens:         26
+  Total tokens:          12,511
+  Cached tokens:         12,321
+  Cache write tokens:    161
+
+Archivo: batch_6aa4f8eb50488190a575c3840703e80a_output.jsonl
+  Requests:              1
+  Input tokens:          12,509
+  Output tokens:         44
+  Total tokens:          12,553
+  Cached tokens:         12,376
+  Cache write tokens:    130
+
+Archivo: batch_6aa4f9631bc4819085b150f34ee1e631_output.jsonl
+  Requests:              1
+  Input tokens:          12,559
+  Output tokens:         36
+  Total tokens:          12,595
+  Cached tokens:         12,482
+  Cache write tokens:    74
+
+Archivo: batch_6aa4f9dab4ac8190a28af5cf8ef62423_output.jsonl
+  Requests:              1
+  Input tokens:          12,593
+  Output tokens:         46
+  Total tokens:          12,639
+  Cached tokens:         12,448
+  Cache write tokens:    142
+
+Archivo: batch_6aa4fa5380848190bdad3cc0bcea9dbb_output.jsonl
+  Requests:              1
+  Input tokens:          12,645
+  Output tokens:         72
+  Total tokens:          12,717
+  Cached tokens:         12,556
+  Cache write tokens:    86
+
+Archivo: batch_6aa4facbb3d481909351b9e1437bc801_output.jsonl
+  Requests:              1
+  Input tokens:          12,679
+  Output tokens:         56
+  Total tokens:          12,735
+  Cached tokens:         12,506
+  Cache write tokens:    170
+
+Archivo: batch_6aa4fb42d71c81908da8b2a265abd6c9_output.jsonl
+  Requests:              1
+  Input tokens:          12,710
+  Output tokens:         171
+  Total tokens:          12,881
+  Cached tokens:         12,412
+  Cache write tokens:    295
+
+Archivo: batch_6aa4fbba927481909f26e9a22fd224c8_output.jsonl
+  Requests:              1
+  Input tokens:          12,734
+  Output tokens:         87
+  Total tokens:          12,821
+  Cached tokens:         12,676
+  Cache write tokens:    55
+
+Archivo: batch_6aa4fc32da8081909ff2d98f1e17b76c_output.jsonl
+  Requests:              1
+  Input tokens:          12,769
+  Output tokens:         172
+  Total tokens:          12,941
+  Cached tokens:         12,642
+  Cache write tokens:    124
+
+Archivo: batch_6aa4fcaacffc819082956d7ea47c3ce4_output.jsonl
+  Requests:              1
+  Input tokens:          12,792
+  Output tokens:         40
+  Total tokens:          12,832
+  Cached tokens:         12,590
+  Cache write tokens:    199
+
+Archivo: batch_6aa4fd23509c819096badd6a614106ac_output.jsonl
+  Requests:              1
+  Input tokens:          12,838
+  Output tokens:         200
+  Total tokens:          13,038
+  Cached tokens:         12,766
+  Cache write tokens:    69
+
+Archivo: batch_6aa4fd9aa94c81908f1b14d0a63c4854_output.jsonl
+  Requests:              1
+  Input tokens:          12,863
+  Output tokens:         93
+  Total tokens:          12,956
+  Cached tokens:         12,789
+  Cache write tokens:    71
+
+Archivo: batch_6aa4fe12b9ac81909b19d7dd6cdc2eba_output.jsonl
+  Requests:              1
+  Input tokens:          12,900
+  Output tokens:         27
+  Total tokens:          12,927
+  Cached tokens:         12,835
+  Cache write tokens:    62
+
+Archivo: batch_6aa4fe8ae6a08190bd7f5054780886cd_output.jsonl
+  Requests:              1
+  Input tokens:          12,996
+  Output tokens:         102
+  Total tokens:          13,098
+  Cached tokens:         0
+  Cache write tokens:    12,993
+
+======================================================================
+DETALLE DE CADA REQUEST
+======================================================================
+
+Request #1
+  Archivo:             batch_6aa4eaa54d848190b322f5077c5839cc_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          5ae6fbf8-f3f8-4b22-ba34-7e1ab8e7ddec
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,296
+  Output tokens:       31
+  Total tokens:        11,327
+  Cached tokens:       0
+  Cache write tokens:  11,293
+  Reasoning tokens:    0
+
+Request #2
+  Archivo:             batch_6aa4eb5ae1bc8190a42a151fe4aaab66_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          98e32c22-24db-4364-819a-d181eb6a274d
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,198
+  Output tokens:       56
+  Total tokens:        11,254
+  Cached tokens:       0
+  Cache write tokens:  11,195
+  Reasoning tokens:    0
+
+Request #3
+  Archivo:             batch_6aa4ebccf2888190be69dc4c16358c0f_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          01eaf6b3-2455-444e-aa18-65c18908e0de
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,258
+  Output tokens:       72
+  Total tokens:        11,330
+  Cached tokens:       0
+  Cache write tokens:  11,255
+  Reasoning tokens:    23
+
+Request #4
+  Archivo:             batch_6aa4ec44225c8190946ac91acb35d41a_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          a87e2a28-a2df-4f9c-ba35-940b7b0ab57d
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,301
+  Output tokens:       90
+  Total tokens:        11,391
+  Cached tokens:       0
+  Cache write tokens:  11,298
+  Reasoning tokens:    32
+
+Request #5
+  Archivo:             batch_6aa4ecc0ed2c8190b28fd88ebadea97b_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          e1811373-e4f8-40c4-80ae-ade9ba7e9314
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,357
+  Output tokens:       89
+  Total tokens:        11,446
+  Cached tokens:       11,255
+  Cache write tokens:  99
+  Reasoning tokens:    35
+
+Request #6
+  Archivo:             batch_6aa4ed32be2481908c65c889e5f20a89_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          29559335-798c-4cf0-840d-be33111416dd
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,405
+  Output tokens:       100
+  Total tokens:        11,505
+  Cached tokens:       11,195
+  Cache write tokens:  207
+  Reasoning tokens:    44
+
+Request #7
+  Archivo:             batch_6aa4edacad6081908e6af4a9c673278a_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          1dd65a4f-61fe-4178-b183-406d2f6607e7
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,459
+  Output tokens:       116
+  Total tokens:        11,575
+  Cached tokens:       11,354
+  Cache write tokens:  102
+  Reasoning tokens:    61
+
+Request #8
+  Archivo:             batch_6aa4ee237fdc81909bfd53382b966711_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          922f0a9d-e625-4044-9bbf-dbbba7f63b5a
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,508
+  Output tokens:       109
+  Total tokens:        11,617
+  Cached tokens:       11,298
+  Cache write tokens:  207
+  Reasoning tokens:    55
+
+Request #9
+  Archivo:             batch_6aa4ee9cd89881908988f15de75d5776_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          a6ac429e-85f5-473d-bf5d-d129801925f6
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,560
+  Output tokens:       144
+  Total tokens:        11,704
+  Cached tokens:       0
+  Cache write tokens:  11,557
+  Reasoning tokens:    91
+
+Request #10
+  Archivo:             batch_6aa4ef13f67c8190a9977c8281d3f30a_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          0ecd0e0c-6e96-4190-9021-93d68aa25743
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,607
+  Output tokens:       107
+  Total tokens:        11,714
+  Cached tokens:       11,402
+  Cache write tokens:  202
+  Reasoning tokens:    44
+
+Request #11
+  Archivo:             batch_6aa4ef8e7720819088ab2e0c17362439_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          02232ebc-89ea-4f33-a4ac-8a304758e49c
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,668
+  Output tokens:       128
+  Total tokens:        11,796
+  Cached tokens:       11,456
+  Cache write tokens:  209
+  Reasoning tokens:    64
+
+Request #12
+  Archivo:             batch_6aa4f002e9c08190af4c98df4e34c75d_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          01bf27f4-822e-454e-b32e-ea0417edd6f0
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,726
+  Output tokens:       142
+  Total tokens:        11,868
+  Cached tokens:       11,604
+  Cache write tokens:  119
+  Reasoning tokens:    75
+
+Request #13
+  Archivo:             batch_6aa4f07b5b448190b291ddf2e657071a_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          419b0e75-28eb-4b70-8049-0cb8eec7b3bb
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,791
+  Output tokens:       170
+  Total tokens:        11,961
+  Cached tokens:       11,557
+  Cache write tokens:  231
+  Reasoning tokens:    97
+
+Request #14
+  Archivo:             batch_6aa4f0f868ac8190ac5b33854407044b_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          bfc451a3-a09a-4007-81da-5fb0a72e604f
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,858
+  Output tokens:       155
+  Total tokens:        12,013
+  Cached tokens:       11,505
+  Cache write tokens:  350
+  Reasoning tokens:    100
+
+Request #15
+  Archivo:             batch_6aa4f173ac448190b573a5b6ea053efc_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          a5a6c40d-4200-4505-a486-9d8733da0539
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,911
+  Output tokens:       85
+  Total tokens:        11,996
+  Cached tokens:       11,665
+  Cache write tokens:  243
+  Reasoning tokens:    43
+
+Request #16
+  Archivo:             batch_6aa4f2d423388190b7da3922ebb6a622_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          5ee66edd-565b-4b97-be3e-3503de5576e3
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,947
+  Output tokens:       83
+  Total tokens:        12,030
+  Cached tokens:       11,723
+  Cache write tokens:  221
+  Reasoning tokens:    31
+
+Request #17
+  Archivo:             batch_6aa4f34cdba481909ad26a370fcb8038_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          9507e2dd-1f83-4c3b-8a79-4f7f36336d01
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        11,997
+  Output tokens:       77
+  Total tokens:        12,074
+  Cached tokens:       11,908
+  Cache write tokens:  86
+  Reasoning tokens:    35
+
+Request #18
+  Archivo:             batch_6aa4f3c39c4081909ad9746e95b4d8fb_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          9a065d21-8d04-4dcc-8746-6efd8cfba18e
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,033
+  Output tokens:       135
+  Total tokens:        12,168
+  Cached tokens:       11,944
+  Cache write tokens:  86
+  Reasoning tokens:    82
+
+Request #19
+  Archivo:             batch_6aa4f43b07c48190818b8bc05de1e232_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          daf5a43f-cc31-4ed5-a076-c92f5b719a6a
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,084
+  Output tokens:       96
+  Total tokens:        12,180
+  Cached tokens:       11,788
+  Cache write tokens:  293
+  Reasoning tokens:    48
+
+Request #20
+  Archivo:             batch_6aa4f52bdf8481909c1c8dbf83a21b47_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          bc074f07-d159-4b84-85ac-66ec62dd0256
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,126
+  Output tokens:       147
+  Total tokens:        12,273
+  Cached tokens:       11,855
+  Cache write tokens:  268
+  Reasoning tokens:    72
+
+Request #21
+  Archivo:             batch_6aa4f5a1fdbc81908d5668a81ad86123_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          08bfff08-f89a-4535-920b-b3e399947ea2
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,199
+  Output tokens:       134
+  Total tokens:        12,333
+  Cached tokens:       11,994
+  Cache write tokens:  202
+  Reasoning tokens:    65
+
+Request #22
+  Archivo:             batch_6aa4f61b0fc88190a0f15a35a8500475_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          8c5139c0-08ed-4ccb-8eb1-7e17bcb794ff
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,262
+  Output tokens:       58
+  Total tokens:        12,320
+  Cached tokens:       12,123
+  Cache write tokens:  136
+  Reasoning tokens:    0
+
+Request #23
+  Archivo:             batch_6aa4f69217788190be765499a6c22f02_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          507331eb-6069-47df-9aba-c565d0c1d625
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,324
+  Output tokens:       331
+  Total tokens:        12,655
+  Cached tokens:       12,196
+  Cache write tokens:  125
+  Reasoning tokens:    270
+
+Request #24
+  Archivo:             batch_6aa4f70ac4dc8190b7f03f478d7c8b42_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          8fcba1df-6818-4a50-8c93-1267c04a89c4
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,379
+  Output tokens:       111
+  Total tokens:        12,490
+  Cached tokens:       12,030
+  Cache write tokens:  346
+  Reasoning tokens:    75
+
+Request #25
+  Archivo:             batch_6aa4f78256488190b23e64f22f6f60e3_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          b37ebacd-5aa8-4685-b02c-718815184b4d
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,415
+  Output tokens:       38
+  Total tokens:        12,453
+  Cached tokens:       12,081
+  Cache write tokens:  331
+  Reasoning tokens:    0
+
+Request #26
+  Archivo:             batch_6aa4f7facdf48190b4a06ec305ed7185_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          f95ec560-bcef-4656-b884-4062d178c5cc
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,451
+  Output tokens:       28
+  Total tokens:        12,479
+  Cached tokens:       12,259
+  Cache write tokens:  189
+  Reasoning tokens:    0
+
+Request #27
+  Archivo:             batch_6aa4f87350348190ba5201ac92410b46_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          305538ac-bf6d-4c93-ae30-fc10381c7485
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,485
+  Output tokens:       26
+  Total tokens:        12,511
+  Cached tokens:       12,321
+  Cache write tokens:  161
+  Reasoning tokens:    0
+
+Request #28
+  Archivo:             batch_6aa4f8eb50488190a575c3840703e80a_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          4b7a6db9-6a61-49ea-b98e-267d581b6741
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,509
+  Output tokens:       44
+  Total tokens:        12,553
+  Cached tokens:       12,376
+  Cache write tokens:  130
+  Reasoning tokens:    0
+
+Request #29
+  Archivo:             batch_6aa4f9631bc4819085b150f34ee1e631_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          3387f0db-a365-46cd-8d08-ac60004efec6
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,559
+  Output tokens:       36
+  Total tokens:        12,595
+  Cached tokens:       12,482
+  Cache write tokens:  74
+  Reasoning tokens:    0
+
+Request #30
+  Archivo:             batch_6aa4f9dab4ac8190a28af5cf8ef62423_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          15f821ee-75cd-49bf-b88c-04886f46e6fd
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,593
+  Output tokens:       46
+  Total tokens:        12,639
+  Cached tokens:       12,448
+  Cache write tokens:  142
+  Reasoning tokens:    0
+
+Request #31
+  Archivo:             batch_6aa4fa5380848190bdad3cc0bcea9dbb_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          74db347b-34c5-4ce8-8743-404f51237c6f
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,645
+  Output tokens:       72
+  Total tokens:        12,717
+  Cached tokens:       12,556
+  Cache write tokens:  86
+  Reasoning tokens:    30
+
+Request #32
+  Archivo:             batch_6aa4facbb3d481909351b9e1437bc801_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          8c53067d-222c-41b6-8548-03f1881bf40e
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,679
+  Output tokens:       56
+  Total tokens:        12,735
+  Cached tokens:       12,506
+  Cache write tokens:  170
+  Reasoning tokens:    25
+
+Request #33
+  Archivo:             batch_6aa4fb42d71c81908da8b2a265abd6c9_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          76aeeb57-13af-4810-9245-a12378e92661
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,710
+  Output tokens:       171
+  Total tokens:        12,881
+  Cached tokens:       12,412
+  Cache write tokens:  295
+  Reasoning tokens:    139
+
+Request #34
+  Archivo:             batch_6aa4fbba927481909f26e9a22fd224c8_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          d11efea5-ea37-4a87-87ec-4e90f4a6f307
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,734
+  Output tokens:       87
+  Total tokens:        12,821
+  Cached tokens:       12,676
+  Cache write tokens:  55
+  Reasoning tokens:    52
+
+Request #35
+  Archivo:             batch_6aa4fc32da8081909ff2d98f1e17b76c_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          bbfa00e0-6087-4399-846c-fcf290f49146
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,769
+  Output tokens:       172
+  Total tokens:        12,941
+  Cached tokens:       12,642
+  Cache write tokens:  124
+  Reasoning tokens:    141
+
+Request #36
+  Archivo:             batch_6aa4fcaacffc819082956d7ea47c3ce4_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          1bed056f-df16-40bd-870f-e9c05bbb2c66
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,792
+  Output tokens:       40
+  Total tokens:        12,832
+  Cached tokens:       12,590
+  Cache write tokens:  199
+  Reasoning tokens:    0
+
+Request #37
+  Archivo:             batch_6aa4fd23509c819096badd6a614106ac_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          1a35f677-1b35-408e-a79b-a53d99a24236
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,838
+  Output tokens:       200
+  Total tokens:        13,038
+  Cached tokens:       12,766
+  Cache write tokens:  69
+  Reasoning tokens:    167
+
+Request #38
+  Archivo:             batch_6aa4fd9aa94c81908f1b14d0a63c4854_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          eaaa2d69-14b2-457d-89f8-78a69ef2ea21
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,863
+  Output tokens:       93
+  Total tokens:        12,956
+  Cached tokens:       12,789
+  Cache write tokens:  71
+  Reasoning tokens:    56
+
+Request #39
+  Archivo:             batch_6aa4fe12b9ac81909b19d7dd6cdc2eba_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          aa5c3044-61a8-4417-9dea-02b3505b9206
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,900
+  Output tokens:       27
+  Total tokens:        12,927
+  Cached tokens:       12,835
+  Cache write tokens:  62
+  Reasoning tokens:    0
+
+Request #40
+  Archivo:             batch_6aa4fe8ae6a08190bd7f5054780886cd_output.jsonl
+  Línea:               1
+  Custom ID:           TWDY64XfFHTe5DAOdrLjpd9wOUB3_u9K3ZtgJhiQ6HJULcDH5kQu08cb2
+  Request ID:          106b6871-6bdf-4fe9-b10e-ff548aeb843a
+  Modelo:              gpt-5.6-terra
+  Status:              200
+  Input tokens:        12,996
+  Output tokens:       102
+  Total tokens:        13,098
+  Cached tokens:       0
+  Cache write tokens:  12,993
+  Reasoning tokens:    60
