@@ -262,6 +262,11 @@ def generar_resumen(rows, output_path: Path):
     output_path.write_text("\n".join(lines), encoding="utf-8")
 
 
+# ==========================================
+# EJEMPLO DE EJECUCIÓN
+# ==========================================
+
+
 def main():
     rows = analizar_jsonl(INPUT_FOLDER)
     generar_csv(rows, DETAIL_CSV)
@@ -277,7 +282,8 @@ def main():
     print("=" * 60)
 
 
+
+
 if __name__ == "__main__":
     main()
-    # Este script NO hace llamadas a OpenAI.
-    # Solo lee los .jsonl que ya descargaste y analiza su campo usage.
+
